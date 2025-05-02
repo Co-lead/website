@@ -20,11 +20,10 @@
         <h2>Welcome To My personal Website!</h2>
         <p>This is the homepage of my personal website.</p>
     </div>
-    <div style="text-align:left;">
-    <a href="https://facebook.com/cojohndel" target="_blank">
+    <div class="social-icon">
+    <a href="https://www.facebook.com/johndel.co.33" target="_blank">
         <i class="fab fa-facebook fa-2x"></i>
     </a>
 </div>
-
 </body>
 </html>

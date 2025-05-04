@@ -10,10 +10,10 @@
     <header>
         <h1>Personal Website</h1>
         <nav>
-            <a href="index.php">Home</a>
-            <a href="about.php">About Me</a>
-            <a href="projects.php">projects</a>
-            <a href="contact.php">Contact</a>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Me</a>
+            <a href="projects.html">projects</a>
+            <a href="contact.html">Contact</a>
         </nav>
         </header>
     <div class="container">
